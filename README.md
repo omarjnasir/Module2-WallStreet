@@ -3,7 +3,11 @@ The purpose of the analysis is to create code that will allow thousands od stock
 
 Results:
 For the year 2017 and 2018, the screen shots are displayed in the resources folder and it is shown that 2017 was a banner year for the stock market with the average return of 67.35%, but in 2018 the same stocks collapsed giving a negative 16.72% loss.The volatility of the stock market was displayed. So a portfoiio consisting of stocks would have to be balanced by bonds or other counter acting influences.
+
+
 Summary:
+
+
 The advantages of refactoring far outweigh its disadvantages. The advantages are as follows:
     -Refactoring Improves the Design of Software
     -Refactoring Makes Software Easier to Understand
